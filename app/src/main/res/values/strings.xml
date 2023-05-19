@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dicegame</string>
+
+    <string name="game_over"> The winner is </string>
+
+    <string name="com_won">You Lost </string>
+
+</resources>
